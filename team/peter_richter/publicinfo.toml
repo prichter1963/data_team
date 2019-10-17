@@ -1,8 +1,8 @@
-full_name = "Your full name"
-description = "The description you would like to feature about your self"
-why_threefold = "The reason you believe in the TF Movement Mission"
-function = "the nature of your job"
+full_name = "Peter Richter"
+description = "Born in Belgium, from German/Dutch descent, Peter is a German citizen with a 25+ year background in Logistics & Supply Chain and in the last 10 years active in industrial development & construction, as well as decentralised energy. A networker by heart, Peter loves to connect people, be it professionally, as well as build personal connections without borders, nor cultural boundaries. With two kids, one cannot ignore the fact that the world is heading in the wrong direction, and it would be ignorant to claim that as an individual, one is not in the position to make a change. I am a global citizen, do not live in my own little world and wherever I lay my hat, that's my home, which for the past 24 years is Moscow, Russia."     "
+why_threefold = "With Threefold we dare to challenge the general narrative and are determined to make a true difference through an amazing, disruptive technology, driven by a dedicated Threefold Team, as well as Community. Very proud to be part of the Threefold reality and looking forward to making a true difference."
+function = "Business Devolpment & dedicated to building a global network of people on top of the TF Grid"
 rank = 0
 project_ids = [insert project ids comma separated]
 contribution_ids = [add contribution_ids linked to each project]
-nationality = "Your nationality"
+nationality = "German with a Dutch touch"
